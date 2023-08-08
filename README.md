@@ -3,9 +3,9 @@
 >  Coding task to find price of first available flight on AirMalta from Vienna to Malta. Completed using Cypress with JavaScript
 
 # Dependencies
-> Node.js
-> Cypress
-> Cypress-xpath
+> Node.js,
+> Cypress,
+> Cypress-xpath.
 
 
 ## Install
