@@ -13,6 +13,10 @@
 ```sh
 npm install
 ```
+##How to Run
+```sh
+npx cypress open
+```
 
 # Gist of Code
 > Visit Booking Page: Open AirMalta's booking page.
